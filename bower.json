@@ -1,0 +1,28 @@
+{
+  "name": "next-rem2px",
+  "version": "0.0.1",
+  "description": "Rem to pixel value based on next",
+  "main": "dist/next-rem2px.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-rem2px",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
