@@ -1,6 +1,6 @@
 {
   "name": "@jswork/tailwind-rem-flexible",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Flexible solution for tailwind.",
   "main": "./lib/index.js",
   "browser": "./dist/index.js",
@@ -26,5 +26,10 @@
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "keywords": [
+    "rem",
+    "tailwind",
+    "flexible"
+  ]
 }

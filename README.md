@@ -13,9 +13,11 @@ npm install @jswork/tailwind-rem-flexible
 
 ## usage
 ```js
-import tailwindRemFlexible from '@jswork/tailwind-rem-flexible';
-
-// usage goes here.
+<script>
+window.__TW_REM_STD_WIDTH__ = 390;
+window.__TW_REM_MAX_WIDTH__ = 1280;
+</script>
+<script src="https://unpkg.com/@jswork/tailwind-rem-flexible"></script>
 ```
 
 ## types
