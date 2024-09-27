@@ -1,6 +1,6 @@
 {
   "name": "@jswork/tailwind-rem-flexible",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Flexible solution for tailwind.",
   "main": "./lib/index.js",
   "browser": "./lib/index.js",
