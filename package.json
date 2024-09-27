@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "Flexible solution for tailwind.",
   "main": "./lib/index.js",
-  "browser": "./dist/index.js",
+  "browser": "./lib/index.js",
   "files": [
     "lib"
   ],
